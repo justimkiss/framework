@@ -8,7 +8,8 @@
    1. Mac OS X: Install Sphinx using MacPorts: \`sudo port install py27-sphinx\`
 3. #### 创建sphinx
 
-      [sphinx基础](http://jwch.sdut.edu.cn/book/tool/UseSphinx.html#id5)
+   [sphinx基础](http://jwch.sdut.edu.cn/book/tool/UseSphinx.html#id5)
+
    #### 
 
 ### 
